@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html{
+margin:0px;
+padding:0px;
+height:100%;
+width:100%;
+background-color:#999;
+}
+.mitad
+{
+	
+	background-color:#0CF;
+	color:#363;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:5em;
+	font-weight:bold;
+	text-align:center;
+	padding:0.5em;
+
+}
+#tex 
+{
+	
+	padding-top: 0.2em;
+	background-color:#ccc;
+	
+}
+#reloj
+{
+	
+	height:100%;
+	width:100%;
+
+}
+#myCircle
+{
+	background-image:url(../images/14.jpg);
+}
